@@ -1,0 +1,5 @@
+.env*
+*.json
+!deno.json
+.DS_Store
+testing.ts
